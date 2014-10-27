@@ -6,7 +6,7 @@
   },
   "homepage": "https://github.com/paulomcnally/dustjs-helpers-gravatar",
   "description": "Helpers Gravatar for dustjs-linkedin package",
-  "main": "./lib/dust-helpers-markdown",
+  "main": "./lib/dust-helpers-gravatar",
   "repository": {
     "type": "git",
     "url": "https://github.com/paulomcnally/dustjs-helpers-gravatar.git"
