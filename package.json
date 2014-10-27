@@ -1,0 +1,29 @@
+{
+  "name": "dustjs-helpers-gravatar",
+  "version": "0.0.1",
+  "author": {
+    "name": "Paulo McNally"
+  },
+  "homepage": "https://github.com/paulomcnally/dustjs-helpers-gravatar",
+  "description": "Helpers Gravatar for dustjs-linkedin package",
+  "main": "./lib/dust-helpers-markdown",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulomcnally/dustjs-helpers-gravatar.git"
+  },
+  "keywords": [
+    "templates",
+    "views",
+    "helpers",
+    "dust",
+    "dustjs",
+    "gravatar"
+  ],
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.8"
+  },
+  "dependencies": {
+    "gravatar": "1.1.0"
+  }
+}
