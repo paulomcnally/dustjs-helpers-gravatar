@@ -24,6 +24,6 @@
     "node": ">=0.8"
   },
   "dependencies": {
-    "gravatar": "1.1.0"
+    "gravatar": "1.5.2"
   }
 }
